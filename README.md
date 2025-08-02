@@ -39,7 +39,7 @@ submission guidelines.
 | **[Invited Talk]** Applications of Causal Machine Learning in Building a Unified Metric System | [Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng/) (Roblox) | 8:05 - 8:25am (20m) | Slides |
 | Offline Contextual Bandits in the Presence of New Actions | Yuta Saito* (Cornell University), Ren Kishimoto (Institute of Science Tokyo), Tatsuhiro Shimizu, Yusuke Narita (Yale University), Kazuki Kawamura, Takanori Muroi, Yuki Sasamoto, Kei Tateno, Takuma Udagawa (Sony Group Corporation) | 8:25 - 8:35am (10m) | [Paper](papers/2.pdf) |
 | Dynamic Synthetic Controls vs. Panel-Aware Double Machine Learning for Geo-Level Marketing Impact Estimation | Sang Su Lee*, Vineeth Loganathan, Vijay Raghavan (Thumbtack, Inc.) | 8:35 - 8:45am (10m) |[Paper](papers/3.pdf)|
-| **[Invited Talk]** Sparse Causal Learning: Challenges and Opportunities | [Linbo Wang](https://sites.google.com/site/linbowangpku/home) (University of Toronto) | 8:50 - 9:10am (20m) | Slides |
+| **[Invited Talk]** The Promises of Parallel Outcomes | [Linbo Wang](https://sites.google.com/site/linbowangpku/home) (University of Toronto) | 8:50 - 9:10am (20m) | Slides |
 | CIPHER: Causal Intent Plug-in Framework for the Mitigation Plug-in Framework for then of Historical Exposure Bias in Recommender Systems | Sanghyeon Lee*, Yeonghwan Jeon, Hyuncheol Jo, Byoung-Ki Jeon (LG Uplus) | 9:10 - 9:20am (10m) | [Paper](papers/4.pdf) |
 | Does Residuals-on-Residuals Regression Produce Representative Estimates of Causal Effects? | Winston Chou (Netflix)*, Apoorva Lal (Amazon) | 9:20 - 9:30am (10m) | [Paper](papers/6.pdf) |
 | *Coffee Break & Poster Session* | | 9:30 - 10:00am | |
